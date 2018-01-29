@@ -17,6 +17,7 @@ export class DataService {
     return this.dataChange.value;
   }
 
+
   getDialogData() {
     return this.dialogData;
   }
